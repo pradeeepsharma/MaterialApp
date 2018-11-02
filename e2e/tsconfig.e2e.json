@@ -4,7 +4,11 @@
     "outDir": "../out-tsc/e2e",
     "module": "commonjs",
     "target": "es5",
+<<<<<<< HEAD
     "types":[
+=======
+    "types": [
+>>>>>>> 66184cebd8022cfa2694211c111a3c7f1dfcb409
       "jasmine",
       "node"
     ]

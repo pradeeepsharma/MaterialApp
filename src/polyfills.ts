@@ -66,3 +66,10 @@ import 'zone.js/dist/zone';  // Included with Angular CLI.
  * Needed for: All but Chrome, Firefox, Edge, IE11 and Safari 10
  */
 // import 'intl';  // Run `npm install --save intl`.
+<<<<<<< HEAD
+=======
+/**
+ * Need to import at least one locale-data with intl.
+ */
+// import 'intl/locale-data/jsonp/en';
+>>>>>>> 66184cebd8022cfa2694211c111a3c7f1dfcb409
